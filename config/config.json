@@ -1,6 +1,10 @@
 {
   "site": {
+<<<<<<< HEAD
     "name": "urban-man",
+=======
+    "name": " urban-man",
+>>>>>>> 74f9221cb8e5f698b15d750274227cf659f3004e
     "url": "https://ethio.netlify.com",
     "lang": "en",
     "summary": "A sample website created using Eleventy & Netlify CMS",
@@ -11,7 +15,7 @@
   },
   "locales": {
     "en": {
-      "url": "/",
+      "url": "https://ethio.netlify.com",
       "next": "id"
     },
     "id": {
