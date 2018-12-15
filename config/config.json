@@ -1,7 +1,7 @@
 {
   "site": {
     "name": "urban-man",
-    "url": "https://ethi.netlify.com",
+    "url": "https://ethio.netlify.com",
     "lang": "en",
     "summary": "A sample website created using Eleventy & Netlify CMS",
     "description": "This is a paragraph containing a more detailed description of the summary line above. Should not exceed more than 160 characters.",
