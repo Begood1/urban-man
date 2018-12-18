@@ -1,15 +1,14 @@
 {
     "en": {
         "share": "Share",
+        "search": "Search our website...",
         "en": "English",
-        "id": "Indonesian",
-        "contact": "contact us"
+        "id": "Indonesian"
     },
     "id": {
         "share": "Bagikan",
+        "search": "Cari di website kami...",
         "en": "Inggris",
-        "id": "Bahasa",
-        "contact": "kontak kami"
-
+        "id": "Bahasa"
     }
 }

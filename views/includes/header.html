@@ -1,11 +1,10 @@
+{% include 'includes/mobile.html' %}
+
 <header class="container header">
   <a href="{{ locale.url }}" class="logo">{% Icon 'logo' %}</a>
   {% include 'components/locale.html' %}
+  {% include 'components/search-bar.html' %}
   <nav class="menu" role="navigation">
     {% include 'components/menu-items.html' %}
   </nav>
-  {% comment %} <button class="header__burger"></button>
-  <div class="header__panel">
-  {% include 'components/menu-items.html' %}
-  </div> {% endcomment %}
 </header>
