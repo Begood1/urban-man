@@ -17,7 +17,8 @@ collections:
     description: 'All pages from both English and Indonesian websites'
     editor:
       preview: false
-    files:
+    files: 
+        
       - label: 'About Us'
         name: 'about'
         file: 'pages/about.md'
@@ -27,6 +28,15 @@ collections:
           - { label: 'Tags', name: 'tags', widget: 'hidden', default: 'nav' }
           - { label: 'Summary', name: 'summary', widget: 'text' }
           - { label: 'Body', name: 'body', widget: 'markdown' }
+      - label: 'News'
+        name: 'news'
+        file: 'pages/news.md'
+        fields:
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Slug', name: 'slug', widget: 'hidden', default: 'about' }
+          - { label: 'Tags', name: 'tags', widget: 'hidden', default: 'nav' }
+          - { label: 'Summary', name: 'summary', widget: 'text' }
+          - { label: 'Body', name: 'body', widget: 'markdown' }    
       - label: 'Tentang Kami'
         name: 'tentang'
         file: 'pages/id/tentang.md'

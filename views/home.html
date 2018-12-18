@@ -1,7 +1,11 @@
 {% layout 'includes/layout.html' %}
 
+
 {% block content %}
   <div class="container">
     {{ content }}
+    {% comment %} {% for product in collection.featured %}
+    {% image product.data.image %}
+      {{product.data.title}}  {% endcomment %}
   </div>
 {% endblock %}

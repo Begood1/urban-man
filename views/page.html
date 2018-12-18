@@ -1,5 +1,6 @@
 {% layout 'includes/layout.html' %}
 {% include 'includes/variables.html' %}
+{% include 'includes/mobile-header.html' %}
 
 {% block content %}
   <div class="container">
@@ -19,7 +20,7 @@
       {% when 'events' %}
         {% include 'components/grid.html' %}
      {% when 'contact' %}
-        {% include 'components/contact-form.html' %}   
+        {% include 'components/contact-form.html' %}     
     {% endcase %}
   </div>
 {% endblock %}
