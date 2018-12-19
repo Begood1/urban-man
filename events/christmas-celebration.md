@@ -1,5 +1,5 @@
 ---
-title: 'Christmas '
+title: Christmas-celebration
 date: 2018-12-25T10:36:44.938Z
 location: Jakarta
 image: 'https://ucarecdn.com/561b3e3d-ad98-46bd-a034-18464cd8ed08/'
