@@ -1,5 +1,5 @@
 ---
-title: chrismas-celebration
+title: christmas-celebration
 location: Jakarta
 image: 'https://ucarecdn.com/ac9b6e86-552d-42cc-9927-b5b489fae6ef/'
 gallery:
