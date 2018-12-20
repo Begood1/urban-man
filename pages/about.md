@@ -12,6 +12,8 @@ The invalidation of the landmark 2010 law is certain to send shock waves through
 
 “Wow, but not surprisingly, ObamaCare was just ruled UNCONSTITUTIONAL by a highly respected judge in Texas,” President Donald Trump wrote in a tweet celebrating the verdict. “Great news for America!”
 
-![Obama Care](https://ucarecdn.com/3ef5eb24-4ad1-44ca-890d-39d4b24632ed/ "Health")
-
 ![text](https://ucarecdn.com/493dfe67-ab24-4fc1-a131-66ccc2a3a0ed/ "Health Care")
+
+The invalidation of the landmark 2010 law is certain to send shock waves through the U.S. health system and Washington after a midterm election seen in part as a rebuke to Republican efforts to tear down Obamacare.
+
+“Wow, but not surprisingly, ObamaCare was just ruled UNCONSTITUTIONAL by a highly respected judge in Texas,” President Donald Trump wrote in a tweet celebrating the verdict. “Great news for America!”
