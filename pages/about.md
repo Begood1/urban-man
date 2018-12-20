@@ -1,5 +1,5 @@
 ---
-title: News
+title: About Us
 slug: about
 tags: nav
 summary: Breaking News
