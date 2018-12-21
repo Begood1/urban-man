@@ -3,6 +3,10 @@ title: About Us
 slug: about
 tags: nav
 summary: Breaking News
+gallary: 
+   - 'https://ucarecdn.com/d51b4e2a-ac48-4fa5-b33f-3175b71cb0a2~3/nth/0/'
+  - 'https://ucarecdn.com/d51b4e2a-ac48-4fa5-b33f-3175b71cb0a2~3/nth/1/'
+  - 'https://ucarecdn.com/d51b4e2a-ac48-4fa5-b33f-3175b71cb0a2~3/nth/2/'
 ---
 A federal judge in Texas threw the health coverage of some 20 million Americans in limbo by ruling Obamacare must be scrapped because Congress struck the penalty for failing to obtain insurance coverage.
 
