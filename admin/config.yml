@@ -141,8 +141,8 @@ collections:
                 fields: 
                   - { label: 'URL', name: 'url', widget: 'string' }
                   - { label: 'next', name: 'next', widget: 'string' }
-              - label: 'Indonesian'
-                name: 'id'
+              - label: 'Amharic'
+                name: 'AMHARIC'
                 widget: 'object'
                 fields: 
                   - { label: 'URL', name: 'url', widget: 'string' }
