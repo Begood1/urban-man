@@ -3,7 +3,7 @@ title: Home
 slug: about
 tags: nav
 summary: Breaking News
-image: 'https://ucarecdn.com/246bb90b-4348-4f01-a30b-ecc7c3718c8c/'
+image: ''
 gallery:
   - 'https://ucarecdn.com/00931e05-a252-4612-8f05-045a3c4a1775~4/nth/0/'
   - 'https://ucarecdn.com/00931e05-a252-4612-8f05-045a3c4a1775~4/nth/1/'
