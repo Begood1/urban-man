@@ -30,14 +30,14 @@ collections:
           - { label: 'Body', name: 'body', widget: 'markdown' }
           - {label: 'Image', name: 'image', widget: 'image', required: false}
           - {label: 'Image', name: 'image', widget: 'image', required: false}
-      - label: 'Gallery'
-        name: 'gallery'
-        widget: 'image'
-        required: false
-        media_library:
-          config:
-            multiple: true
-            previewStep: false
+          - label: 'Gallery'
+            name: 'gallery'
+            widget: 'image'
+            required: false
+            media_library:
+              config:
+                multiple: true
+                previewStep: false
       
       - label: 'News'
         name: 'news'
