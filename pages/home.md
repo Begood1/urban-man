@@ -1,12 +1,12 @@
 ---
+layout: home
+permalink: /
 image: 'https://ucarecdn.com/568939da-145a-4508-ab66-e218cc4995ed/'
 gallery:
   - 'https://ucarecdn.com/495971f4-f727-4b63-a1f7-882295f2fa5c~4/nth/0/'
   - 'https://ucarecdn.com/495971f4-f727-4b63-a1f7-882295f2fa5c~4/nth/1/'
   - 'https://ucarecdn.com/495971f4-f727-4b63-a1f7-882295f2fa5c~4/nth/2/'
   - 'https://ucarecdn.com/495971f4-f727-4b63-a1f7-882295f2fa5c~4/nth/3/'
-layout: home
-permalink: /
 ---
 
 # Welcome Home
