@@ -2,24 +2,95 @@
 title: ' Ethiopian Christmas'
 date: 2019-01-07T11:02:48.567Z
 location: Addis Abeba
+image: 'https://ucarecdn.com/0174a843-798b-4614-a564-8e15ea82dd6e/'
 gallery:
   - 'https://ucarecdn.com/e4ae7809-8b7c-427e-8279-ab35f241a719~4/nth/0/'
   - 'https://ucarecdn.com/e4ae7809-8b7c-427e-8279-ab35f241a719~4/nth/1/'
   - 'https://ucarecdn.com/e4ae7809-8b7c-427e-8279-ab35f241a719~4/nth/2/'
   - 'https://ucarecdn.com/e4ae7809-8b7c-427e-8279-ab35f241a719~4/nth/3/'
 ---
-Christmas, which is celebrated on the 7th January, is called Ledet or Genna which comes from the word Gennana, meaning “imminent” and which expresses the coming of the Lord and the freeing of mankind from sin.
+Christmas, which is celebrated on the 7th January, is called Ledet or Genna which comes from the word የገና (ልደት) በዓል በኦርቶዶክስ ቤተክርስትያን ቀኖና መሰረት ከዘጠኙ ዐብይ በአላት ውስጥ አንዱ በአል ነው። እለቱ በትንቢተ ነቢያት የተነገረለት የሰውን ልጆች በጥንተ ተፈጥሮ የፈጠረ የእግዚአብሔር ልጅ አሁን ደግሞ በሐዳስ ተፈጥሮ ለመፍጠር ማለት ሰውን ለማዳን ሰው ሆኖ የተወለደበት እለት ነው።
 
 
 
-The celebration of Ethiopian Christmas is marked by various activities such as horse racing   and authentic folk dancing. At Lalibela, Genna is celebrated in very attractive ways due to the birth date of King Lalibela being on a similar day. In the rural areas a popular game which looks like European Hockey but is typically Ethiopian is conducted between two youth teams. The game is named after the festival and is called "Yegena Chewata".
+የልደት በዐል የሚከበረው በየአመቱ ታህሣሥ ፳፱ (29) ቀን ሲሆን በዘመነ ዮሐንሥ ግን (የዘመነ ጳጉሜን ስድስድት ስለሆነች) በዐሉ ታህሣሥ ፳፰ (28) ቀን ይከበራል። ይህም የተጀመረው በአፄ ዐምደ ጽዮን ዘመነ መንግስት ነው ይባላል። የልደት በዓልከጾም ዘመን ጋር የተያያዘ ስለሆነ ገሃድ የለውም፤ የማይፆሙ ሰዎች ግን ዋዜማውን ብቻ ገሃድ ብለው ይፆሙታል።
 
 
+
+በገና በዓል በተለያዩ አካባቢዎች ወንዶች የገና ጨዋታ የተሰኘውን ባህላዊ ጨዋታ ሲጫወቱ ይስተዋላሉ።
 
 ![](https://ucarecdn.com/6ab0b2b6-3bf6-414b-aabb-390a2855eccb/ "Gena")
 
-Christmas is more unique in rural areas than in the cities and it is celebrated seriously by a church service that goes on throughout the night, with people moving from one church to another. 
+የተለያዩ መንፈሳዊና ባህላዊ አከባበር ከሚከበርባቸው ስፍራዎች አንዱ በአዲስ አበባ ከተማ የሚገኘው ጃንሜዳ ተብሎ የሚታወቀው ገናን ነው፡፡
 
 
 
-It is quietly shared and celebrated in groups of friends and family. Gift giving is a very small part of Christmas festivities in Ethiopia and only small gifts are exchanged among family and friends at home. The festive mood usually continues until the late hours of the evening. The joy of giving and sharing, extends beyond religious beliefs and spreads the spirit of peace on earth and goodwill to all mankind throughout the world.
+የገናን ባህላዊ ጨዋታን ስንመለከት አስቀድሞ የቡድን አባላት የሚሆኑ ሁለት ሰዎች ይመረጣሉ፡፡ ሁለት ሁለት ተጫዋቾች ወደ አባቶች ይቀርቡና በምርጫው ወደ ቡድን ውስጥ ይገባሉ፡፡ የሚያስፈልገው የተጫዋች ቁጥር ሲሞላ ወገን ወገናቸውን ይዘው በዱላ ቀልጣፋ የሆኑ ተጫዋቾች ጥንጓን( መጫወቻ ኳሱ) ወደፊት እንድትቀጥል ይመቷታል ወይም ይመልሷታል፡፡ ተጫዋቾች ብዙ ጊዜ በጨዋታው ስለሚሰጡ ጥንጓን ከእግር መካከል በገባች ጊዜ ከሰው እግር ጋር ደርበው ስለሚመቱ የእግር መሰበር በዚህም ሳቢያ ወገን ለይተው እስከመፈናከት ይደርሳሉ፡፡ በንጉሳውያን ዘመን የመኳንንቱም አሽከሮች፣ የንጉሡና የንግሥቲቷ አሽከሮች የጌቶቻቸውን ስም በጉብዝና የሚያስጠሩት በባህላዊው የገና ጨዋታ ነው፡፡
+
+
+
+ጨዋታው በመንደር ልዩነት ከሆነ የታች አምባ ቡድን ሀምሳ ተጫዋቾች ቢሆኑ የላይ አምባ ቡድን ሰባ ሆነው ቢጫወቱ የሚከለክል ደንብ አልነበረም፡፡ ጨዋታው በመጨረሻ ፀብ ስለሚያነሳ ብዙ ጊዜ ጉዳት ያጋጥማል፡፡ ጥንጓም ኃይለኛ ለጊ በመታት ጊዜ ዐይን እስከ ማጥፋት ትደርሳለች፡፡ ተጫዋቾች “በሚና” ብለው በሚጫወቱበት በቆልማማ ዱላ ቢደባደቡም የሚገላግል ዳኛ አልነበረም፤ ጨዋታውን በሚመለከቱ አባቶችም በድብድብ ከመሳቅ በስተቀር ሽምግልናቸው ለገና ጨዋታ አልተለመደም፡፡ “እግር ይብሳል፣ ያንከላውሳል፡፡” እያለ ማስፈራራት፣ ራስን መቀወር ወይም እንቆራቆስ ብሎ እጅና እግርን በዱላው መምታት በገና ጨዋታ የተለመደ ነበር፡፡
+
+
+
+የገና ጨዋታ በኢትዮጵያ ብቻ ሳይሆን በሌሎች አገሮች የታወቀውና በኦሊምፒክ የስፖርት በዓል ከሚደረጉ ውድድሮች አንዱ ሆኖ ቆይቷል፡፡ ይህም ጨዋታ ሆኪ በሚል ስም ይጠራል፡፡ ፈረንጆች የፊት አደጋን መከላከያ ዘዴ ይጠቀማሉ፡፡ በኢትዮጵያ ያገር ባህል ገና ጨዋታ በሚደርስ አደጋ ማንም ተጫዋች አይጠይቅም፡፡
+
+
+
+በገና ጨዋታ አሸናፊ ለሆኑት ቡድኖች ፊሪዳና ጠጅ ተሰጥቷቸው እየበሉና እየጠጡ፣ እየዘፈኑ ሲሸልሉና ሲያቅራሩ ሜዳውን የጦርነት ድል ያገኙበት ያስመስሉት ነበር፡፡ ከሚዘፍኑትና ግጥሞች ጥቂቶቹ የሚከተሉት ናቸው፡፡
+
+
+
+“ማታ ነው ድሌ፣
+
+ይሄ ነው አመሌ፡፡
+
+አሲና በል አሲና ገናዬ፡፡
+
+ኦ! ጉ! አሲና በል አሲና ገናዬ፡፡
+
+ግፋው ግፋው አለኝ እኔ እንደምን ልግፋው፣
+
+የአንድ በሬ ጨጓራ እንደ ቅል የነፋው፡፡
+
+የብብቱ ሽታ፣ የመንፈቅ በሽታ፡፡
+
+የጀርባው መርሬ፣ ያውላል ጥድ በሬ፡፡
+
+ካስር ጋን አተላ፣
+
+አይተርፈው በአንኮላ፡፡
+
+እግርህ የሸረሪት ሆድህ የእንቁራሪት፣
+
+ቀን እንደጠላሁ ና እንዳትመጣ ሌሊት፡፡”
+
+
+
+ስድብ ለተራው ሕዝብ ብቻ ሳይሆን በመኳንንቱና በነገሥታቱም ላይ ሊሰነዘር ይችላል፡፡ በሚደርስባቸው ስድብ ግን ምንም ዓይነት ቁጣና ቅጣት አያደርጉም፡፡
+
+
+
+“በገና ጨዋታ አይቆጡም ጌታ
+
+በገና ጨዋታ የለም ሎሌ ጌታ፡፡” የሚለው የዘፈን ግጥም ይህን ባህል ይገልፃል፡፡
+
+የገና ጨዋታ ከክርስትና ሃይማኖት በፊት ይዘወተር እንደነበርና በኢትዮጵያ ከታኅሣሥ የመኸር ወቅት ጋር የተያያዘ ባህል ነበረ፡፡ ከበዓሉ ጋር የተያያዘ ብዙ የስነቃል ግጥሞችን ይገኛሉ፡፡
+
+
+
+“ታኅሣሥ ገሠገሠ ከተፍ አለ ገና፣
+
+እጠብቅሀለሁ አንተ ልጅ ቶሎ ና፡፡
+
+ይወዘውዘኛል አልጠላኝም ገና፣
+
+ፍቅር ሞገደኛው እየነሳኝ ጤና፡፡
+
+ምግብ አያስበላ አያስለብስ ልብስ፣
+
+ሞገደኛው ፍቅሩ ይዞኝ በታኅሣሥ፡፡
+
+በማለዳ ጀንበር በገና ጨረቃ፣
+
+እኔን እኔን ብላ መጣች ተደብቃ፡፡”
