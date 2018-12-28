@@ -4,10 +4,6 @@ slug: about
 tags: nav
 autor: Peace
 summary: Breaking News
-<<<<<<< HEAD
-=======
-image: ''
->>>>>>> 4889d6a1b620ead32a5f3d5c46e74e92eb78008a
 gallery:
   - 'https://ucarecdn.com/00931e05-a252-4612-8f05-045a3c4a1775~4/nth/0/'
   - 'https://ucarecdn.com/00931e05-a252-4612-8f05-045a3c4a1775~4/nth/1/'
