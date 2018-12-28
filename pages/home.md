@@ -1,6 +1,7 @@
 ---
 layout: home
 permalink: /
+autor: by selam lehulu
 image: 'https://ucarecdn.com/568939da-145a-4508-ab66-e218cc4995ed/'
 gallery:
   - 'https://ucarecdn.com/495971f4-f727-4b63-a1f7-882295f2fa5c~4/nth/0/'
@@ -9,7 +10,6 @@ gallery:
   - 'https://ucarecdn.com/495971f4-f727-4b63-a1f7-882295f2fa5c~4/nth/3/'
 ---
 
-# Welcome Home
 A federal judge in Texas threw the health coverage of some 20 million Americans in limbo by ruling Obamacare must be scrapped because Congress struck the penalty for failing to obtain insurance coverage.
 
 The invalidation of the landmark 2010 law is certain to send shock waves through the U.S. health system and Washington after a midterm election seen in part as a rebuke to Republican efforts to tear down Obamacare.

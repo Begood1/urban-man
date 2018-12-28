@@ -12,12 +12,35 @@ media_library:
     tabs: 'file gphotos url'
 
 collections:
-  - name: 'pages'
-    label: 'Pages'
-    description: 'All pages from both English and Indonesian websites'
+    - name: 'pages'
+    label: 'pages'
+    description: 'All pages from English and Amharic here'
     editor:
       preview: false
-    files: 
+    folder: 'pages'
+    create: true
+    slug: '{{slug}}'
+    fields:
+      - {label: 'Title', name: 'title', widget: 'string'}
+      - {label: 'Date', name: 'date', widget: 'date'}
+      - {label: 'Location', name: 'location', widget: 'string'}
+      - {label: 'Body', name: 'body', widget: 'markdown'}
+      - {label: 'Image', name: 'image', widget: 'image', required: false}
+      - label: 'Gallery'
+        name: 'gallery'
+        widget: 'image'
+        required: false
+        media_library:
+          config:
+            multiple: true
+            previewStep: false
+
+  # - name: 'pages'
+  #   label: 'Pages'
+  #   description: 'All pages from both English and Indonesian websites'
+  #   editor:
+  #     preview: false
+  #   files: 
         
       - label: 'About Us'
         name: 'about'
