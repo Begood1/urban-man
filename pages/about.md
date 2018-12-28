@@ -1,14 +1,9 @@
 ---
-title: Home
+title: About
 slug: about
 tags: nav
 autor: Peace
 summary: Breaking News
-gallery:
-  - 'https://ucarecdn.com/00931e05-a252-4612-8f05-045a3c4a1775~4/nth/0/'
-  - 'https://ucarecdn.com/00931e05-a252-4612-8f05-045a3c4a1775~4/nth/1/'
-  - 'https://ucarecdn.com/00931e05-a252-4612-8f05-045a3c4a1775~4/nth/2/'
-  - 'https://ucarecdn.com/00931e05-a252-4612-8f05-045a3c4a1775~4/nth/3/'
 ---
 
 
