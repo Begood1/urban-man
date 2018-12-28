@@ -2,8 +2,10 @@
 title: About
 slug: about
 tags: nav
-autor: Peace
 summary: Breaking News
+gallery:
+  - 'https://ucarecdn.com/6c4db89f-702b-4ae3-83b6-3ceccdca4eb3~2/nth/0/'
+  - 'https://ucarecdn.com/6c4db89f-702b-4ae3-83b6-3ceccdca4eb3~2/nth/1/'
 ---
 
 
