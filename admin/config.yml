@@ -13,7 +13,7 @@ media_library:
 
 collections:
     - name: 'pages'
-    label: 'pages'
+    label: ' Add new pages'
     description: 'All pages from English and Amharic here'
     editor:
       preview: false
