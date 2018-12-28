@@ -1,8 +1,8 @@
 ---
-title: Kalender Kegiatan
+title: ክስተቶች
 slug: events
 tags: nav
-navtitle: Events
+navtitle: ክስተቶች
 ---
 
-<p class="lead">Acara mendatang di kota Anda</p>
+<p class="lead">በከተማዎ ያሉ መጪ ክስተቶች</p>

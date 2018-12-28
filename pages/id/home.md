@@ -3,7 +3,15 @@ layout: home
 permalink: /id/ 
 ---
 
-## Display of camaraderie
-The second president of the Federal Democratic Republic of Ethiopia, President Girma Woldegiorgis was laid to rest at the Holy Trinity Cathedral on Wednesday which was declared a day of national mourning by the House of People's Representatives. The 94-year-old Girma died after a brief illness as his health worsened in recent weeks, forcing him to slow down a marathon of activism in the environment and youth engagement that have been his signature voluntarism for almost a century. An array of personalities, the head of state, judiciary, government, diplomacy and the military joined his family in a well attended state funeral and a perfect send-off to a noted head of state. Pictured above are Lemma Megerssa (L), President of the Oromia Regional State, and General Seare Mekonnen, Chief of Staff of the Ethiopian National Defense Forces, exchanging warm pleasantries on the grounds of the Cathedral where the funeral ceremony was taking place.
+## ኢትዮ ቴሌኮም
+
+ኢትዮ ቴሌኮም ቅዳሜ ታኅሳስ 13 ቀን 2011 ዓ.ም. ለሪፖርተር በላከው መግለጫ በአዲስ አበባና በጅማ ዞን በቴሌኮም ማጭበርበር ተሳታፊ ናቸው የተባሉ ተጠርጣሪዎች ከነመሣሪያዎቻቸው በቁጥጥር ሥር መዋላቸውን አስታወቀ፡፡
+
+ከተለያዩ የፌዴራልና የክልል ፀጥታ አካላት ጋር በጋራ በተደረገ ክትትል በአዲስ አበባ 34፣ በጅማ ዞን ደግሞ 32 ሲም ቦክሶች መገኘታቸውንም ጠቁሟል፡፡
+
+ኢትዮ ቴሌኮም በተለያዩ ጊዜያት በቴሌኮም ማጭበርበር ምክንያት በርካታ ገንዘብ እንደሚያጣ ማስታወቁ የሚታወስ ሲሆን፣ በተለይም ከዓለም አቀፍ ጥሪዎች የሚያገኘው ገቢ በእጅጉ እንደቀነሰበት ሲያስታውቅ ቆይቷል፡፡ በዚህም ምክንያት፣ ዓርብ ታኅሳስ 12 ቀን 2011 ዓ.ም. የኢትዮ ቴሌኮም ዋና ሥራ አስፈጻሚ ወ/ሪት ፍሬ ሕይወት ታምሩ በሰጡት መግለጫ በሕገወጦች ላይ ዕርምጃ እንደሚወሰድ አስታውቀው ነበር፡፡
+![text](https://ucarecdn.com/493dfe67-ab24-4fc1-a131-66ccc2a3a0ed/ "Health Care")
+
+
 
 
