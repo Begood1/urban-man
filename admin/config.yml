@@ -12,19 +12,13 @@ media_library:
     tabs: 'file gphotos url'
 
 collections:
-   
-
   - name: 'pages'
     label: 'Pages'
     description: 'All pages from both English and Indonesian websites'
     editor:
       preview: false
     files: 
-      - { label: 'Title', name: 'title', widget: 'string' }
-          - { label: 'Slug', name: 'slug', widget: 'hidden', default: 'about' }
-          - { label: 'Tags', name: 'tags', widget: 'hidden', default: 'nav' }
-          - { label: 'Summary', name: 'summary', widget: 'text' }
-          - { label: 'Body', name: 'body', widget: 'markdown' }   
+  
            
       - label: 'About Us'
         name: 'about'
@@ -35,16 +29,7 @@ collections:
           - { label: 'Tags', name: 'tags', widget: 'hidden', default: 'nav' }
           - { label: 'Summary', name: 'summary', widget: 'text' }
           - { label: 'Body', name: 'body', widget: 'markdown' }
-          # - {label: 'Image', name: 'image', widget: 'image', required: false}
-          # - {label: 'Image', name: 'image', widget: 'image', required: false}
-          # - label: 'Gallery'
-          #   name: 'gallery'
-          #   widget: 'image'
-          #   required: false
-          #   media_library:
-          #     config:
-          #       multiple: true
-          #       previewStep: false
+         
       
       - label: 'News'
         name: 'news'
