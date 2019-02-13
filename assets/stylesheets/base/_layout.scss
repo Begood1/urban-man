@@ -5,8 +5,10 @@
 .container {
   position: relative;
   margin: auto;
-  width: $container-width;
-  max-width: $container-max;
+  width: 100%;
+  //I changed the width of nav bar
+  // width: $container-width;
+  // max-width: $container-max
 
   &--text {
     max-width: $container-text-max;

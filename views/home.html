@@ -1,18 +1,19 @@
-{% layout 'includes/layout.html' %}
+{% comment %} {% layout 'includes/layout.html' %}
 {% include 'includes/variables.html' %}
 
 {% block content %}
   <div class="container">
     {{ content }}
   </div>
-{% endblock %}
-{% comment %} {% layout 'includes/layout.html' %}
+{% endblock %} {% endcomment %}
+{% layout 'includes/layout.html' %}
 {% include 'includes/variables.html' %}
+
 {% block content %} 
-  {% comment %} <div class="container banner">
+ <div class="container banner">
     {% Image image title %}
-  </div>  {% endcomment %}
-   {% comment %} <div class="container container--text">
+  </div>  
+   <div class="container container--text">
     <span class="italic faint">{{ date | formatDate }}</span>
     <h1>{{ title }}</h1>
      {% if gallery %}
@@ -21,7 +22,7 @@
     {% include 'components/social-share.html' %}
 
     {{ content }}
-    {% endblock %} {% endcomment %
+    {% endblock %}
     {% comment %} {% if gallery %}
       {% include 'components/gallery.html' %}
     {% endif %} 
