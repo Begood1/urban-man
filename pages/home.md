@@ -1,8 +1,7 @@
 ---
 layout: home
 permalink: /
-author: by selam lehulu
-image: 'https://ucarecdn.com/568939da-145a-4508-ab66-e218cc4995ed/'
+author: by selam 
 ---
 
 A federal judge in Texas threw the health coverage of some 20 million Americans in limbo by ruling Obamacare must be scrapped because Congress struck the penalty for failing to obtain insurance coverage.
