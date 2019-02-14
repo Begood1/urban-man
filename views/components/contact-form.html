@@ -12,7 +12,7 @@
     <textarea name="comment" placeholder="Enter some comment" required></textarea>
   </label>
   <div>
-    <label>
+    {% comment %} <label>
       <input type="radio" name="priority" value="Critical">
       <span class="spaced caps h6 bold">Critical</span>
     </label>
@@ -37,7 +37,7 @@
     <label>
       <input type="checkbox" name="topic" value="Javascript">
       <span class="spaced caps h6 bold">Javascript</span>
-    </label>
+    </label> {% endcomment %}
     <label>
      <input type="file" name="Myfile" value="upload File">
      </label>
