@@ -124,7 +124,28 @@ collections:
           config:
             multiple: true
             previewStep: false
-    
+  - name: 'events'
+    label: 'Events in English'
+    description: 'Add or modify English events here'
+    editor:
+      preview: false
+    folder: 'events'
+    create: true
+    slug: '{{slug}}'
+    fields:
+      - {label: 'Title', name: 'title', widget: 'string'}
+      - {label: 'Date', name: 'date', widget: 'date'}
+      - {label: 'Location', name: 'location', widget: 'string'}
+      - {label: 'Body', name: 'body', widget: 'markdown'}
+      - {label: 'Image', name: 'image', widget: 'image', required: false}
+      - label: 'Gallery'
+        name: 'gallery'
+        widget: 'image'
+        required: false
+        media_library:
+          config:
+            multiple: true
+            previewStep: false  
   - name: 'settings'
     label: 'Settings'
     description: 'Configure settings for the website here'
