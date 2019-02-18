@@ -1,0 +1,6 @@
+{
+    "lang": "id",
+    "tags": "post",
+    "layout": "post",
+    "permalink": "/id/post/{{ title | slug }}/index.html"
+}
