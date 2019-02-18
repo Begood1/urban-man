@@ -19,7 +19,7 @@ collections:
       preview: false
     files:
       - name: 'pages'
-    label: 'pages in English'
+  -  label: 'pages in English'
     description: 'Add or modify English pages here'
     editor:
       preview: false
