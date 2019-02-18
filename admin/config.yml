@@ -18,6 +18,23 @@ collections:
     editor:
       preview: false
     files:
+      - label: 'Home'
+        name: 'home'
+        file: 'pages/home.md'
+        fields:
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Slug', name: 'slug', widget: 'hidden', default: 'about' }
+          - { label: 'Tags', name: 'tags', widget: 'hidden', default: 'nav' }
+          - { label: 'Summary', name: 'summary', widget: 'text' }
+          - { label: 'Body', name: 'body', widget: 'markdown' }
+          - label: 'Gallery'
+            name: 'gallery'
+            widget: 'image'
+            required: false
+            media_library:
+              config:
+              multiple: true
+              previewStep: false
       - label: 'About Us'
         name: 'about'
         file: 'pages/about.md'
@@ -26,7 +43,7 @@ collections:
           - { label: 'Slug', name: 'slug', widget: 'hidden', default: 'about' }
           - { label: 'Tags', name: 'tags', widget: 'hidden', default: 'nav' }
           - { label: 'Summary', name: 'summary', widget: 'text' }
-          - { label: 'Body', name: 'body', widget: 'markdown' }
+          - { label: 'Body', name: 'body', widget: 'markdown' }    
       - label: 'News'
         name: 'news'
         file: 'pages/news.md'
@@ -140,7 +157,7 @@ collections:
                 fields: 
                   - { label: 'URL', name: 'url', widget: 'string' }
                   - { label: 'next', name: 'next', widget: 'string' }
-              - label: 'Indonesian'
+              - label: 'Amharic'
                 name: 'id'
                 widget: 'object'
                 fields: 

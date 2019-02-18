@@ -2,11 +2,13 @@
   display: none;
   padding: $s 0;
 
+
   @include from(lg) {
     box: horizontal middle;
   }
 
   .logo {
+    //color: $black #000;
     color: $gray-400;
     padding: $h;
 

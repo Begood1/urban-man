@@ -2,6 +2,7 @@
 title: About me
 slug: about
 tags: nav
+author: geze;
 summary: ' Those who Trust in the lord Shall renew there streangth'
 ---
 ![](https://ucarecdn.com/9eab3ac7-43b8-406b-a623-33278f27628b/)
