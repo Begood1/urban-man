@@ -11,7 +11,7 @@ media_library:
     imagesOnly: true
     tabs: 'file gphotos url'
 
-collections:
+collections:[
   - name: 'pages'
     label: 'pages'
     description: 'All pages from both English and Indonesian websites'
@@ -61,7 +61,7 @@ collections:
             fields:
               - { label: 'Question', name: 'question', widget: 'string' }
               - { label: 'Answer', name: 'answer', widget: 'text' }
-
+]
   - name: 'events'
     label: 'Events in English'
     description: 'Add or modify English events here'
