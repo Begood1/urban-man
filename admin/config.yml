@@ -15,9 +15,25 @@ collections:
   - name: 'pages'
     label: 'pages'
     create: true
+    folder: pages/id
     description: 'All pages from both English and Indonesian websites'
     editor:
       preview: false
+      slug: '{{slug}}'
+      fields:
+      - {label: 'Title', name: 'title', widget: 'string'}
+      - {label: 'Date', name: 'date', widget: 'date'}
+      - {label: 'Location', name: 'location', widget: 'string'}
+      - {label: 'Body', name: 'body', widget: 'markdown'}
+      - {label: 'Image', name: 'image', widget: 'image', required: false}
+      - label: 'Gallery'
+        name: 'gallery'
+        widget: 'image'
+        required: false
+        media_library:
+          config:
+            multiple: true
+            previewStep: false
     files:
       - label: 'About Us'
         name: 'about'
