@@ -6,7 +6,7 @@ gallery:
   - 'https://ucarecdn.com/495971f4-f727-4b63-a1f7-882295f2fa5c~4/nth/1/'
   - 'https://ucarecdn.com/495971f4-f727-4b63-a1f7-882295f2fa5c~4/nth/2/'
   - 'https://ucarecdn.com/495971f4-f727-4b63-a1f7-882295f2fa5c~4/nth/3/'
- image: 'https://ucarecdn.com/ac9b6e86-552d-42cc-9927-b5b489fae6ef/'
+#  image: 'https://ucarecdn.com/ac9b6e86-552d-42cc-9927-b5b489fae6ef/'
 ---
 
 ![](https://ucarecdn.com/9eab3ac7-43b8-406b-a623-33278f27628b/)
