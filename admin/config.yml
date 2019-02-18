@@ -14,7 +14,7 @@ media_library:
 collections:
   - name: 'pages'
     label: 'pages'
-    create: true
+    create: false
     folder: pages/id
     description: 'All pages from both English and Indonesian websites'
     editor:
