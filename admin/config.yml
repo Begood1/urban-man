@@ -15,7 +15,7 @@ collections:
   - name: 'pages'
     label: 'pages'
     create: true
-    folder: pages/id
+    folder: pages
     description: 'All pages from both English and Indonesian websites'
     editor:
       preview: false
