@@ -14,12 +14,9 @@ media_library:
 collections:
   - name: 'pages'
     label: 'pages'
-    create: false
-    folder: pages
     description: 'All pages from both English and Indonesian websites'
     editor:
       preview: false
-      slug: '{{slug}}'
       fields:
       - {label: 'Title', name: 'title', widget: 'string'}
       - {label: 'Date', name: 'date', widget: 'date'}
@@ -125,7 +122,7 @@ collections:
             multiple: true
             previewStep: false
   - name: 'post'
-    label: 'Events in English'
+    label: 'New post'
     description: 'Add or modify English events here'
     editor:
       preview: false
