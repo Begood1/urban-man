@@ -14,7 +14,7 @@ media_library:
 collections:
   - name: 'pages'
     label: 'pages'
-    create: true
+    create: false
     folder: pages
     description: 'All pages from both English and Indonesian websites'
     editor:
@@ -124,12 +124,12 @@ collections:
           config:
             multiple: true
             previewStep: false
-  - name: 'events'
+  - name: 'post'
     label: 'Events in English'
     description: 'Add or modify English events here'
     editor:
       preview: false
-    folder: 'events'
+    folder: 'post'
     create: true
     slug: '{{slug}}'
     fields:
