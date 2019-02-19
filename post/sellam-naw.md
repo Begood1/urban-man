@@ -1,6 +1,5 @@
 ---
 title: sellam naw
-tags: nav
 date: 2019-02-18T18:45:45.310Z
 location: Addis abeba
 image: 'https://ucarecdn.com/2c68b15d-8792-419e-9149-864a9c4e12ac/'
