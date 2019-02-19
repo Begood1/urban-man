@@ -1,28 +1,24 @@
 {% layout 'includes/layout.html' %}
 {% include 'includes/variables.html' %}
 
+{% layout 'includes/layout.html' %}
+{% include 'includes/variables.html' %}
 {% block content %}
-  <div class="container">
+  {% comment %} <div class="container banner">
+    {% Image image title %}
+  </div> {% endcomment %}
+  <div class="container container--text">
+    <span class="italic faint">{{ date | formatDate }}</span>
     <h1>{{ title }}</h1>
-    {% if author %}
-      <span class="italic faint">by</span>
-      <span class="h6 spaced caps faint">{{ author }}</span>
+     {% if gallery %}
+      {% include 'components/gallery.html' %}
     {% endif %}
-    
-    {% if summary %}<p class="lead">{{ summary }}</p>{% endif %}
+    {% include 'components/social-share.html' %}
     
     {{ content }}
-    
-    {% case page.fileSlug %}
-      {% when 'faq' %}
-        {% include 'components/accordion.html' %}
-      {% when 'events' %}
-        {% include 'components/grid.html' %}
-       {% when 'contact' %}
-        {% include 'components/contact-form.html' %} 
-         {% when 'home' %}
-        {% include 'components/gallary.html' %} 
-      
-    {% endcase %}
+
+    {% comment %} {% if gallery %}
+      {% include 'components/gallery.html' %}
+    {% endif %} {% endcomment %}
   </div>
 {% endblock %}
