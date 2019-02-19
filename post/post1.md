@@ -4,6 +4,7 @@ tags: nav
 slug: post1
 date: 2019-01-29T17:00:00.000Z
 location: Bogor
+image: 'https://ucarecdn.com/568939da-145a-4508-ab66-e218cc4995ed/'
 gallery:
   - 'https://ucarecdn.com/31c5e264-2ea1-44e7-b755-a8ad864d6cbf~2/nth/0/'
   - 'https://ucarecdn.com/31c5e264-2ea1-44e7-b755-a8ad864d6cbf~2/nth/1/'
