@@ -7,7 +7,7 @@ logo_url: 'https://ethio.netlify.com/assets/favicons/android-chrome-384x384.png'
 media_library:
   name: 'uploadcare'
   config:
-    publicKey: '8e9c4a41f41b308f4468'
+    publicKey: 'f8f7898a5f64c74c8b1d'
     imagesOnly: true
     tabs: 'file gphotos url'
 
