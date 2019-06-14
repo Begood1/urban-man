@@ -1,11 +1,11 @@
 ---
 layout: home
 permalink: /
-gallery:
-  - 'https://ucarecdn.com/495971f4-f727-4b63-a1f7-882295f2fa5c~4/nth/0/'
-  - 'https://ucarecdn.com/495971f4-f727-4b63-a1f7-882295f2fa5c~4/nth/1/'
-  - 'https://ucarecdn.com/495971f4-f727-4b63-a1f7-882295f2fa5c~4/nth/2/'
-  - 'https://ucarecdn.com/495971f4-f727-4b63-a1f7-882295f2fa5c~4/nth/3/'
+# gallery:
+#   - 'https://ucarecdn.com/495971f4-f727-4b63-a1f7-882295f2fa5c~4/nth/0/'
+#   - 'https://ucarecdn.com/495971f4-f727-4b63-a1f7-882295f2fa5c~4/nth/1/'
+#   - 'https://ucarecdn.com/495971f4-f727-4b63-a1f7-882295f2fa5c~4/nth/2/'
+#   - 'https://ucarecdn.com/495971f4-f727-4b63-a1f7-882295f2fa5c~4/nth/3/'
 #  image: 'https://ucarecdn.com/ac9b6e86-552d-42cc-9927-b5b489fae6ef/'
 ---
 

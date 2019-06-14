@@ -1,6 +1,6 @@
 ---
 title: post1
-tags: nav
+tags: nav title
 slug: post1
 date: 2019-01-29T17:00:00.000Z
 location: Bogor
