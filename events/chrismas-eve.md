@@ -12,7 +12,7 @@ gallery:
 ---
 
 Half of UK motorists will cram onto main roads and motorways today, as Christmas Eve travellers have been warned they face gridlock.
-
+Half of UK motorists will cram onto main roads and motorways today, as Christmas Eve travellers have been warned they face gridlock.
 Research by the AA has found that the rush of last-minute present-buyers and people setting off to visit family is likely to cause jams on arterial routes across the country.
 
 Commuter traffic will be reduced as many people booked the day off work for an extended Christmas break.
